@@ -1,5 +1,5 @@
 # HPD_data
-Continous analysis of Houston Police Department data from 2019./n 
+Continous analysis of Houston Police Department data from 2019. 
 In the analysis I have learned:
 - the highest crime reported
 - the date and month with most reports
